@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hHihE4/ugY5rYfV406l9XB4/gKXfLop6yr/yvFro26y98fR4AKr9z0eRENOBTKDatu8fXMIzwpwci2hsh9D5bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronaldo\\source\\repos\\CQRSMediatoR\\CQRSMediatoR\\CQRSMediatoR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\mediatr\\10.0.0\\mediatr.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\mediatr.contracts\\1.0.0\\mediatr.contracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.0\\mediatr.extensions.microsoft.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
+    "C:\\Users\\Ronaldo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
